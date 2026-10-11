@@ -43,7 +43,7 @@ You can easily install and run this tool on **Termux** (Android) or any **Linux*
 Run the following commands in your terminal:
 
 ```bash
-git clone https://codeberg.org/Firewall-Crusher/fake-request-website.git
+git clone https://github.com/UG-ALOK/fake-request-website.git
 ```
 ```bash
 cd fake-request-website
